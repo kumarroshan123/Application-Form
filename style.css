@@ -1,0 +1,66 @@
+*{
+    color: olive;
+}
+*{
+    background-color: rgb(205, 238, 205);
+    text-align: center;
+}
+#h2{
+    font-size: x-large;
+    font-weight: lighter;
+}
+p{
+    font-weight: bold;
+}
+#nbox{
+    width: 165px;
+    height: 20px;
+    border: 2px solid olive;
+    background-color: aliceblue;
+
+}
+#nbox2{
+    width: 165px;
+    height: 20px;
+    margin-left: 15px;
+    border: 2px solid olive;
+    background-color: aliceblue;
+}
+.input{
+    margin-top: -10px;
+}
+#sn{
+    width: 355px;
+    height: 25px;
+    border: 2px solid olive;
+    background-color: aliceblue;
+
+}
+#rs{
+    width: 450px;
+    height: 100px;
+    border: 2px solid olive;
+    background-color: aliceblue;
+
+}
+#lau{
+    width: 450px;
+    height: 40px;
+    border: 2px solid olive;
+    background-color: aliceblue;
+    text-align: center;
+}
+#box{
+    border: 2px solid olive;
+    width: 450px;
+    height: 40px;
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 515px;
+}
+select{
+    width: 400px;
+    background-color: aliceblue;
+    font-weight: bold;
+}
